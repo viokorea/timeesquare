@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85294605694",
+    "project_id": "timesquare-47a3e",
+    "storage_bucket": "timesquare-47a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85294605694:android:03b30a3203444829673f2f",
+        "android_client_info": {
+          "package_name": "com.esqtwo.timesquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85294605694-ppe0jo57vfen1nacvf7vf38qjt8pfssn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j9mZzE2LAvf_863J3XE32-z9EUOoqbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85294605694-ppe0jo57vfen1nacvf7vf38qjt8pfssn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
